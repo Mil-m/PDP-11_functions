@@ -1,5 +1,5 @@
 # PDP-11_functions
-Function strset<br>
+strset:<br><br>
 Заменяет символы в строке S на символ С
 Возвращает указатель на начало строки
 <br><br>
